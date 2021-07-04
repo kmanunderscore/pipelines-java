@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/kriscavanade/az400repo1/_apis/build/status/kmanunderscore.pipelines-java?branchName=master)](https://dev.azure.com/kriscavanade/az400repo1/_build/latest?definitionId=6&branchName=master)
+
 
 # Contributing
 
